@@ -3,7 +3,7 @@ Machine Learning with Python and R
 
 **Python Examples**
 ---
-
++ [Splitting Data into Training and Test Data Sets in Python](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/splitting_data.py)
 
 
 **R Examples**
