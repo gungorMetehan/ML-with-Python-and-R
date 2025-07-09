@@ -5,6 +5,7 @@ Machine Learning with Python and R
 ---
 + [Splitting Data into Training and Test Data Sets](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/splitting_data.py) | Data: `iris`
 + [k-Nearest Neighbors Algorithm [Binary]](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/knn_binary.py) | Data: `breast_cancer`
++ [CART - Decision Tree (Classification)](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/dtree_classification.py) | Data: `iris`
 
 
 **R Examples**
