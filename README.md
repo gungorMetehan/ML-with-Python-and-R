@@ -3,15 +3,16 @@ Machine Learning with Python and R
 
 **Python Examples**
 ---
-+ [Splitting Data into Training and Test Data Sets in Python](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/splitting_data.py) | Data: `iris`
++ [Splitting Data into Training and Test Data Sets](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/splitting_data.py) | Data: `iris`
++ [k-Nearest Neighbors Algorithm [Binary]](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/knn_binary.py) | Data: `breast_cancer`
 
 
 **R Examples**
 ---
-+ [Splitting Data into Training and Test Data Sets in R](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/splitting_data.R) | Data: `iris`
-+ [k-Nearest Neighbors Algorithm in R](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/kNN_modeling.R) | Data: `iris`
-+ [Bagging in R](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/bagging.R) | Data: `airquality`
-+ [Bagging in R](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/bagging_2.R) | Data: `penguins`
++ [Splitting Data into Training and Test Data Sets](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/splitting_data.R) | Data: `iris`
++ [k-Nearest Neighbors Algorithm](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/kNN_modeling.R) | Data: `iris`
++ [Bagging](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/bagging.R) | Data: `airquality`
++ [Bagging](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/bagging_2.R) | Data: `penguins`
 
 
 
