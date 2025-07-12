@@ -1,5 +1,5 @@
 # Machine Learning with Python and R
-In this repository, I will be sharing **R** and **Python** command-line scripts that I have learned and developed in the field of machine learning. So many algorithms and methods have been developed in machine learning that it has become quite difficult to keep track of all of them. For this reason, I will share some of the machine learning exercises I’ve done based on topics I’ve encountered and learned from various sources. The repository is open to contributions. Please feel free to share your ideas via Pull Requests or Issues.
+In this repository, I will be sharing **R** and **Python** command-line scripts that I have learned and developed in the field of machine learning. So many algorithms and methods have been developed in machine learning that it has become quite difficult to keep track of all of them. For this reason, I will share some of the ML exercises I’ve done based on topics I’ve encountered and learned from various sources. The repository is open to contributions. Please feel free to share your ideas via Pull Requests or Issues.
 
 **Python Examples**
 ---
