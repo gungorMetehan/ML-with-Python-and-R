@@ -26,14 +26,14 @@ X_train_scaled = scaler.transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 
 # model fitting
-mlp_model = MLPRegressor(random_state = 42).fit(X_train_scaled,y_train)
+mlp_model = MLPRegressor(random_state = 42).fit(X_train_scaled, y_train)
 mlp_model
 
 # y_pred
 y_pred = mlp_model.predict(X_test_scaled)
 
 # rmse
-rmse = np.sqrt(mean_squared_error(y_test,y_pred))
+rmse = np.sqrt(mean_squared_error(y_test, y_pred))
 rmse
 
 # model tuning
