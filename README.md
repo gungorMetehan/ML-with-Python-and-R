@@ -17,6 +17,7 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [Elastic Net](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/elasticnet.py) | Data: `Hitters`
 + [Naive Bayes](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/naive_bayes.py) | Data: `iris`
 + [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/SVM.py) | Data: `digits`
++ [Principal Component Analysis (PCA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/pca.py) | Data: `iris`
 
 
 ## **R Examples**
