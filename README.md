@@ -4,13 +4,13 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 ## **Python Examples**
 
 + [Splitting Data into Training and Test Data Sets](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/splitting_data.py) | Data: `iris`
-+ [k-Nearest Neighbors Algorithm [Binary]](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/knn_binary.py) | Data: `breast_cancer`
++ [k-Nearest Neighbors Algorithm (Binary)](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/knn_binary.py) | Data: `breast_cancer`
 + [CART - Decision Tree (Classification)](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/dtree_classification.py) | Data: `iris`
 + [Random Forest (Classification)](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/random_forest.py) | Data: `faces`
 + [Random Forest (Regression)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/random_forest_regression.py) | Data: `california_housing`
 + [Simple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/simple_linear_regression.py) | Data: `diabetes`
 + [Multiple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/multiple_linear_regression.py) | Data: `diabetes`
-+ [Logistic Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/logistic_regression.py) | Data: `heart_disease`
++ [Logistic Regression (Binary)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/logistic_regression.py) | Data: `heart_disease`
 + [Polynomial Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/polynomial_regression.py) | Data: `california_housing`
 + [MLP Neural Network (Regression)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/mlp.py) | Data: `Hitters`
 + [Lasso Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lasso_regression.py) | Data: `Hitters`
