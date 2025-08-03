@@ -13,8 +13,8 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [Logistic Regression (Binary)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/logistic_regression.py) | Data: `heart_disease`
 + [Polynomial Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/polynomial_regression.py) | Data: `california_housing`
 + [MLP Neural Network (Regression)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/mlp.py) | Data: `Hitters`
-+ [Lasso Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lasso_regression.py) | Data: `Hitters`
-+ [Ridge Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/ridge_regression.py) | Data: `Hitters`
++ [Lasso Regression (L1 Regularization)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lasso_regression.py) | Data: `Hitters`
++ [Ridge Regression (L2 Regularization)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/ridge_regression.py) | Data: `Hitters`
 + [Elastic Net](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/elasticnet.py) | Data: `Hitters`
 + [Naive Bayes](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/naive_bayes.py) | Data: `iris`
 + [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/SVM.py) | Data: `digits`
