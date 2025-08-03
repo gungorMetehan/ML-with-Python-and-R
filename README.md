@@ -20,6 +20,7 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/SVM.py) | Data: `digits`
 + [Principal Component Analysis (PCA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/pca.py) | Data: `iris`
 + [Linear Discriminant Analysis (LDA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lda.py) | Data: `MNIST`
++ [PCA versus LDA](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/pca_versus_lda.py) | Data: `iris`
 
 
 ## **R Examples**
