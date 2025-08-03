@@ -19,6 +19,7 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [Naive Bayes](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/naive_bayes.py) | Data: `iris`
 + [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/SVM.py) | Data: `digits`
 + [Principal Component Analysis (PCA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/pca.py) | Data: `iris`
++ [Linear Discriminant Analysis (LDA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lda.py) | Data: `MNIST`
 
 
 ## **R Examples**
