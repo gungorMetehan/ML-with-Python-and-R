@@ -22,6 +22,9 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [Linear Discriminant Analysis (LDA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lda.py) | Data: `MNIST`
 + [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/tsne.py) | Data: `MNIST`
 + [PCA versus LDA](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/pca_versus_lda.py) | Data: `iris`
++ [Grid Search CV versus Randomized Search CV (Over kNN)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_KNN.py) | Data: `iris`
++ [Grid Search CV versus Randomized Search CV (Over Decision Trees)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_DT.py) | Data: `iris`
++ [Grid Search CV versus Randomized Search CV (Over SVM)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_SVM.py) | Data: `iris`
 
 
 ## **R Examples**
