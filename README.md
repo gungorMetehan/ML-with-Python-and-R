@@ -25,6 +25,7 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [Grid Search CV versus Randomized Search CV (Over kNN)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_KNN.py) | Data: `iris`
 + [Grid Search CV versus Randomized Search CV (Over Decision Trees)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_DT.py) | Data: `iris`
 + [Grid Search CV versus Randomized Search CV (Over SVM)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_SVM.py) | Data: `iris`
++ [Clustering Algorithms Comparison](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/clustering_algorithms_comparison.py) | Data: Generated via `sklearn.datasets`
 
 
 ## **R Examples**
