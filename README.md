@@ -19,6 +19,7 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [Naive Bayes](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/naive_bayes.py) | Data: `iris`
 + [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/SVM.py) | Data: `digits`
 + [k-Means Clustering](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/kmeans_clustering.py) | Data: Generated via `sklearn.datasets`
++ [DBSCAN](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/dbscan.py) | Data: Generated via `sklearn.datasets`
 + [Principal Component Analysis (PCA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/pca.py) | Data: `iris`
 + [Linear Discriminant Analysis (LDA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lda.py) | Data: `MNIST`
 + [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/tsne.py) | Data: `MNIST`
