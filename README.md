@@ -39,7 +39,7 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [Bagging](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/bagging_2.R) | Data: `penguins`
 + [k-Means Clustering](https://github.com/gungorMetehan/ML-with-Python-and-R/tree/main/R-codes) | Data: `USArrests`
 + [Simple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/simple_linear_regression.R) | Data: `diabetes`
-
++ [Multiple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/multiple_linear_regression.R) | Data: `diabetes`
 
 
 *Note.* Contributions are very welcome. Please do not hesitate to contribute.
