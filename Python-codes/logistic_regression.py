@@ -54,7 +54,7 @@ from sklearn.metrics import roc_curve, auc
 n_classes = len(df["target"].unique())
 
 ## binarizing y_test to (n, n_classes) shape
-y_test_bin = label_binarize(y_test, classes=range(n_classes))
+y_test_bin = label_binarize(y_test, classes = range(n_classes))
 y_score = pipeline.predict_proba(X_test)  # (n_samples, n_classes)
 
 ## computing ROC curve and AUC for each class
@@ -77,4 +77,5 @@ plt.ylabel("True Positive Rate")
 plt.title("Multi-Class ROC Curve (One-vs-Rest)")
 plt.legend(loc = "lower right")
 plt.grid(True)
+
 plt.show()
