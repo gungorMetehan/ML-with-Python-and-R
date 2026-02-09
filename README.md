@@ -37,7 +37,7 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [k-Nearest Neighbors Algorithm](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/kNN_modeling.R) | Data: `iris`
 + [Bagging](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/bagging.R) | Data: `airquality`
 + [Bagging](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/bagging_2.R) | Data: `penguins`
-+ [k-Means Clustering](https://github.com/gungorMetehan/ML-with-Python-and-R/tree/main/R-codes) | Data: `USArrests`
++ [k-Means Clustering](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/kMeans.R) | Data: `USArrests`
 + [Simple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/simple_linear_regression.R) | Data: `diabetes`
 + [Multiple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/multiple_linear_regression.R) | Data: `diabetes`
 
