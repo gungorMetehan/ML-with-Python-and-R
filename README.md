@@ -41,6 +41,7 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [k-Means Clustering](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/kMeans.R) | Data: `USArrests`
 + [Simple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/simple_linear_regression.R) | Data: `diabetes`
 + [Multiple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/multiple_linear_regression.R) | Data: `diabetes`
++ [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/SVM.R) | Data: `iris`
 
 
 *Note.* Contributions are very welcome. Please do not hesitate to contribute.
