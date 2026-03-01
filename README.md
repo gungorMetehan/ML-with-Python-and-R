@@ -10,7 +10,7 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [Random Forest (Regression)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/random_forest_regression.py) | Data: `california_housing`
 + [Simple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/simple_linear_regression.py) | Data: `diabetes`
 + [Multiple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/multiple_linear_regression.py) | Data: `diabetes`
-+ [Logistic Regression (Binary)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/logistic_regression.py) | Data: `heart_disease`
++ [Multinomial Logistic Regression)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/multi_logistic_regression.py) | Data: `heart_disease`
 + [Polynomial Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/polynomial_regression.py) | Data: `california_housing`
 + [MLP Neural Network (Regression)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/mlp.py) | Data: `Hitters`
 + [Lasso Regression (L1 Regularization)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lasso_regression.py) | Data: `Hitters`
